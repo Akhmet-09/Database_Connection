@@ -31,6 +31,8 @@ INSTALLED_APPS = [
     'Database',
     'django_extensions',
     'Reports',
+    'Shop',
+    
 ]
 
 MIDDLEWARE = [
